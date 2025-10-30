@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nischayd28&label=Profile%20views&color=0e75b6&style=flat" alt="nischayd28" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nischayd28" alt="nischayd28" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nischayd28"alt="nischayd28"&theme=dark&hideborder=true /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -26,6 +26,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nischayd28&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nischayd28&show_icons=true&locale=en" alt="nischayd28" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nischayd28&theme=dark&show_icons=true&locale=en" alt="nischayd28" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nischayd28&" alt="nischayd28" /></p>
