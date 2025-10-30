@@ -9,12 +9,15 @@
 
 - 🔭 I’m currently learning **Web Development with Other Skills which are in High Demand**
 
-- 🌱 I’m currently learning **Js,Ts,React,Nextjs,Tailwindcss,Nodejs,Express**
-
 - 💬 Ask me about **My progress**
 
 - ⚡ Fun fact **I watch Anime**
 
+  <!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 - 💻 Currently Learning these languages Bellow:
 
